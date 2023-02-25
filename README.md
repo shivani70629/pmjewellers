@@ -6,7 +6,7 @@
         <title> P.M.Jewellers</title>
         <link rel="stylesheet" href="style.css">
         <script src="https://kit.fontawesome.com/5e849b5428.js" crossorigin="anonymous"></script>
-        <script type="text/javascript" src="D:\PMJ\script1.js "></script>
+        <script type="text/javascript" src="script1.js "></script>
 
     </head>
     <body>   
@@ -23,7 +23,7 @@
   <div id="myNav" class="overlay">
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
     <div class="overlay-content">
-        <center><img src="main\LOGO3-removebg-preview.png" alt="PMJ jewels" width="70" height="70"></center>
+        <center><img src="LOGO3-removebg-preview.png" alt="PMJ jewels" width="70" height="70"></center>
         <P style="font-size:10PX; color: rgb(90, 34, 122); text-align:center; margin-left:1em;">
             Jewellery To Fit Every Budget <br>Occasion And Taste...</P>
             <ul style="overflow-y:hidden; list-style: none; margin: 0; padding: 0;">
