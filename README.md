@@ -60,7 +60,7 @@
     </div>
   </div>
   <span style="margin-left:2em;">
-             <img src="main/LOGO3-removebg-preview.png" alt="PMJ jewels" width="70" height="70">
+             <img src="LOGO3-removebg-preview.png" alt="PMJ jewels" width="70" height="70">
        </span>       
         <div style="margin-left:2em; font-size: 17px;">
             <ul class="ul">
